@@ -1,6 +1,7 @@
 # BlogPlatform
 
 A full-stack blog platform with an admin panel, backend API, and frontend client.
+[Visit Website 🔗](http://3.92.212.245:3000/)
 
 ## Features
 - User authentication and authorization
